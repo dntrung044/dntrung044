@@ -1,4 +1,4 @@
-<h1 align='center'><samp><strong>Hello World, welcome to my innovation lab!</strong></samp></h1>
+<h1 align='center'><samp><strong>Hello World, welcome to my project space!</strong></samp></h1>
 
 <div align='center'>
   
@@ -11,8 +11,8 @@
 
 <p align='left'>
 
-I am a Vietnamese UI/UX designer and front-end developer with a background in Digital Art Design, passionate about crafting visually appealing and user-focused digital experiences.  
-With skills spanning Figma, Adobe Creative Suite, HTML, CSS, and JavaScript, I bring both creative vision and technical precision to every project.  
+I am a Vietnamese UI/UX designer and developer with a background in Digital Art Design, passionate about crafting visually appealing and user-focused digital experiences.  
+With skills spanning Figma, Adobe Creative Suite, HTML, CSS, JavaScript, PHP and Vue js. I bring both creative vision and technical precision to every project.  
 
 I aim to design and build meaningful solutions that positively impact users and enhance everyday life through thoughtful design and technology.  
 
