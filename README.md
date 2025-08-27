@@ -11,12 +11,13 @@
 
 <p align='left'>
 
-I am a Vietnamese UI/UX designer and developer with a background in Digital Art Design, passionate about crafting visually appealing and user-focused digital experiences.  
-With skills spanning Figma, Adobe Creative Suite, HTML, CSS, JavaScript, PHP and Vue js. I bring both creative vision and technical precision to every project.  
+I am a Vietnamese Web Developer with a background in Information Technology, passionate about building reliable and user-friendly web applications.  
+With expertise in PHP (Laravel), JavaScript (Vue.js, Alpine.js, jQuery), SQL, CSS, and Git, I combine technical precision with a problem-solving mindset in every project.  
 
-I aim to design and build meaningful solutions that positively impact users and enhance everyday life through thoughtful design and technology.  
+My goal is to develop scalable, high-quality solutions that enhance user experience and deliver real business value.  
 
-I am always open to collaboration on innovative design projects and creative tech solutions. Feel free to reach out via the contact links above.
+I am always open to collaboration on innovative web projects. Feel free to reach out via the contact links above.  
+
 </p>
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
