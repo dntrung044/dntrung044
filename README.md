@@ -2,6 +2,7 @@
 
 <div align='center'>
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-dntrung044.github.io-blue?logo=vercel&logoColor=white&labelColor=black)](https://dntrung044.github.io)
   [![Behance](https://img.shields.io/badge/Behance-dntrung044-blue?logo=Behance&logoColor=white&labelColor=black)](https://www.behance.net/dntrung044)
   [![Gmail](https://img.shields.io/badge/Gmail-dntrung044%40gmail.com-blue?logo=Gmail&logoColor=white&labelColor=black)](mailto:dntrung044@gmail.com)
   
@@ -10,14 +11,8 @@
 <h1 align='left' style='margin: 20px;'><samp><strong>Who I Am</strong></samp></h1>
 
 <p align='left'>
-
-I am a Vietnamese Web Developer with a background in Information Technology, passionate about building reliable and user-friendly web applications.  
-With expertise in PHP (Laravel), JavaScript (Vue.js, Alpine.js, jQuery), SQL, CSS, and Git, I combine technical precision with a problem-solving mindset in every project.  
-
-My goal is to develop scalable, high-quality solutions that enhance user experience and deliver real business value.  
-
-I am always open to collaboration on innovative web projects. Feel free to reach out via the contact links above.  
-
+Vietnamese Web Developer passionate about building reliable, user-friendly applications.  
+Skilled in PHP (Laravel), Vue.js, JavaScript, SQL, and CSS, with a strong interest in creating scalable, impactful solutions.  
 </p>
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
